@@ -8,5 +8,4 @@
   <p align="left"><a href="https://github.com/Zinaida0x/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinaida0x&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 <br><br>
-<p align="center">
-</p>
+[![](https://visitcount.itsvg.in/api?id=Zinaida0x&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
